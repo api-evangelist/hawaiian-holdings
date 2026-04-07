@@ -1,7 +1,12 @@
 aid: hawaiian-holdings
-url: https://raw.githubusercontent.com/api-evangelist/hawaiian-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/hawaiian-holdings/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.hawaiian-holdings.com
+description: >-
+  Hawaiian Holdings is the parent company of Hawaiian Airlines, the largest and longest-serving
+  airline of Hawaii, providing scheduled passenger service to destinations across
+  the Pacific.
