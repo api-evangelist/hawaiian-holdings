@@ -1,7 +1,9 @@
 ---
 title: Alaska Airlines completes purchase of Hawaiian Airlines
 url: https://klewtv.com/news/nation-world/alaska-airlines-completes-purchase-hawaiian-airlines-faa-flight-airport-flying
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hawaiian Holdings" press release artificial intelligence'
 position: 2
 source: serpapi-google

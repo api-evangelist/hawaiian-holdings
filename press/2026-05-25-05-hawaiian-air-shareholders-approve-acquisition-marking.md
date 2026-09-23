@@ -1,7 +1,9 @@
 ---
 title: Hawaiian Air shareholders approve acquisition, marking ' ...
 url: https://www.hawaiinewsnow.com/2024/02/16/hawaiian-air-shareholders-approve-alaska-air-acquisition-marking-important-milestone/
-date: '2026-05-25'
+published: '2024-02-16'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Hawaiian Holdings" press release artificial intelligence'
 position: 5
 source: serpapi-google

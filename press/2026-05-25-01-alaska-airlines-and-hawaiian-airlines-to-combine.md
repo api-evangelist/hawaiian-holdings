@@ -1,7 +1,9 @@
 ---
 title: Alaska Airlines and Hawaiian Airlines to Combine ...
 url: https://www.prnewswire.com/news-releases/alaska-airlines-and-hawaiian-airlines-to-combine-expanding-benefits-and-choice-for-travelers-throughout-hawaii-and-the-west-coast-302003943.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hawaiian Holdings" press release artificial intelligence'
 position: 1
 source: serpapi-google
